@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T16:01:56 IST" name="Suite" finished-at="2021-03-30T16:01:57 IST" duration-ms="745">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T16:01:56 IST" name="Test" finished-at="2021-03-30T16:01:57 IST" duration-ms="745">
+      <class name="ArangoDB_Pack.Read_Documents">
+        <test-method signature="MyGETRequest()[pri:0, instance:ArangoDB_Pack.Read_Documents@62e7f11d]" started-at="2021-03-30T16:01:56 IST" name="MyGETRequest" finished-at="2021-03-30T16:01:57 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyGETRequest -->
+      </class> <!-- ArangoDB_Pack.Read_Documents -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
